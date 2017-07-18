@@ -12,10 +12,10 @@ The music page content contains links to external web sites. Format these as [ab
 
 When you are done, you will have four html files:
 
-index.html
-menu.html
-jobs.html
-music.html
+index.html<br>
+menu.html<br>
+jobs.html<br>
+music.html<br>
 
 Name your project according to this scheme:
 
