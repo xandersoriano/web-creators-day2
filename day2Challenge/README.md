@@ -1,6 +1,6 @@
 # Day 2 Challenge
 
-This challenge asks you to create the home and menu pages for a small coffee shop
+This challenge asks you to create the home and menu pages for a small coffee shop<br><br>
 .
 You will also create the [music](music.txt) and [jobs](jobs.txt) pages using the text files provided in the repository for the content.
 
