@@ -1,4 +1,4 @@
-Day 2 Challenge
+# Day 2 Challenge
 
 This challenge asks you to create the home and menu pages for a small coffee shop
 .
