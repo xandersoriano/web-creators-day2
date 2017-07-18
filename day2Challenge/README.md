@@ -17,6 +17,10 @@ menu.html
 jobs.html
 music.html
 
-Name the zip file:  firstnameFirstLetterofLastname_hwk2.zip, i.e.
+Name your project according to this scheme:
 
- "GordonA_hwk2.zip"
+FirstInitialLastName_Day2
+
+for example:
+
+JDeVaughn_Day2
