@@ -1,6 +1,8 @@
 # Day 2 Challenge Part I 
 
-### Create home and menu pages 
+### Create home page
+
+First thing you're going to do is create a new Thimble project and replace the starter code with the code in [template.html](template.html)
 
 1. Change the title in between the head tags to `JavaJam Coffee House`
 2. Code the header element with the text, "JavaJame Coffee House" contained within a heading 1 element
