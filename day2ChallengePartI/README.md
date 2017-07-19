@@ -5,7 +5,7 @@
 First thing you're going to do is create a new Thimble project and replace the starter code with the code in [template.html](template.html)
 
 1. Change the title in between the head tags to `JavaJam Coffee House`
-2. Code the header element with the text, "JavaJam Coffee House" contained within a `<h1>` and `</h1>`
+2. Code the header element with the text, "JavaJam Coffee House" contained within a `<h1>` and `</h1>` tag
 3. Place the following text within a nav element with bold text (use the `<b>` element):<br>
 Home Menu Music Jobs<br><br>
 Code anchor tags so that "Home" links to index.html, "Menu" links to menu.html, "Music" links to music.html, and "Jobs" links to jobs.html. Add extra blank spaces with the `&nbsp;` special character as needed.
