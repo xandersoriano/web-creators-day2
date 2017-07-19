@@ -1,4 +1,4 @@
-# Day 2 Challenge Part II 
+# Day 2 Challenge Part I 
 
 ### Create home and menu pages 
 
@@ -30,9 +30,9 @@ Create the menu page shown in [menu.png](menu.png). A technique that improves pr
 
 Create a new html file in your Thimble project and rename it menu.html. Replace the starter code with the code from your index.html file 
 
-1. Modify the page title. Change the text contained between the `<title>` and `</title> tags to the following:
+1. Modify the page title. Change the text contained between the `<title>` and `</title>` tags to the following:
 
-JavaJame Coffee House Menu
+JavaJam Coffee House Menu
 
 2. Delete the Home page content unordered list and contact information. 
 
