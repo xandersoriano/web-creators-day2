@@ -2,7 +2,7 @@
 
 1. Download the files and upload them to a new Thimble project
 
-2. make a services.html look like the [picture](services.png)
+2. make a services.html look like the [picture](services.png). Remember to use description lists *add link* for the page content. 
 
 3. Add [nav links](https://www.w3schools.com/tags/tag_nav.asp) to all pages
 
