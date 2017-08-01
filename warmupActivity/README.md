@@ -3,7 +3,7 @@
 ## Mini Challenge 
 
 See if you can update your Trillium home page to look like the picture below: 
-![Trillium With List](trilliumList.png)
+![Trillium With List](trilliumWithList.png)
 
 We are now going to use CSS (Cascading Style Sheets) to make our webpage more appealing. 
 
