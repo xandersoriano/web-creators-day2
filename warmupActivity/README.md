@@ -44,7 +44,7 @@ IDs are used to configure a **SINGLE** html element
 ### Span 
 
 8. Create a class name `companyName` that will configure the color of our company name in our paragraph. Remember to put it at the bottom of your CSS file. 
-!{Company Name CSS](companyNameCSS.png)
+![Company Name CSS](companyNameCSS.png)
 
 9. Now modify our paragraph so that our company name is now associated with it's class. 
 ![Company Name HTML](companyNameHTML.png)
