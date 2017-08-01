@@ -43,4 +43,18 @@ IDs are used to configure a **SINGLE** html element
 
 ### Span 
 
+8. Create a class name `companyName` that will configure the color of our company name in our paragraph. Remember to put it at the bottom of your CSS file. 
+!{Company Name CSS](companyNameCSS.png)
+
+9. Now modify our paragraph so that our company name is now associated with it's class. 
+![Company Name HTML](companyNameHTML.png)
+
+### One Last Tweak 
+I don't like the space between the header and the nav bar. Let's adjust the margin so that they're closer. Modify the h1 selector in your CSS file to look like this:
+
+![H1 Margin](h1Margin.png)
+
+Your page should now look like this:
+![Trillium Final](trilliumFinal.png)
+
 
