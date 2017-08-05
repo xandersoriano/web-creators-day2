@@ -35,6 +35,8 @@ IDs are used to configure a **SINGLE** html element
 
 ### Configure the HTML
 
+**CHANGES 6 and 7 GO INSIDE YOUR HTML FILE**
+
 6. Modify the last two `<li>` tags in the unordered list. Add a class attribute that associates the `<li>` with the `feature` class. 
 ![Feature HTML](images/featureHTML.png)
 
@@ -46,7 +48,7 @@ IDs are used to configure a **SINGLE** html element
 8. Create a class name `companyName` that will configure the color of our company name in our paragraph. Remember to put it at the bottom of your CSS file. 
 ![Company Name CSS](images/companyNameCSS.png)
 
-9. Now modify our paragraph so that our company name is now associated with it's class. 
+9. Now modify our paragraph in your HTML file so that our company name is now associated with it's class. 
 ![Company Name HTML](images/companyNameHTML.png)
 
 ### One Last Tweak 
